@@ -1,21 +1,21 @@
 ---
-author: Your Name
+author: Jack Macfadyen
 title: Project Dataset and Topics
 output: html
 ---
 
-[Link to dataset]()
+[Link to dataset](https://clinicaltrials.gov)
 
 Things you plan to investigate using this dataset:
 
-- Thing 1
-- Thing 2
-- Thing 3
+- Frequency of clinical trails for specific diseases
+- Geographical trends of clinical trails for specific diseases
+- Ongoing/Suspended/Withdrawn clinical trails
 
 Stat 351 topics you plan to cover during the analysis:
 
-1. Topic 1
-2. Topic 2
-3. Topic 3
-4. Topic 4
+1. Web scraping
+2. Merging datasets
+3. Data cleaning
+4. Animated/interactive graphics
 
