@@ -19,3 +19,13 @@ Stat 351 topics you plan to cover during the analysis:
 3. Data cleaning
 4. Animated/interactive graphics
 
+
+
+---
+
+Comments:
+
+- Are there specific diseases you're interested in?
+
+- Do you expect there to be geographic trends in this data beyond location of large research medical schools?
+
